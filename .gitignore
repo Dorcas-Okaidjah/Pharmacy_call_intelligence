@@ -1,0 +1,9 @@
+data/real/
+data/synthetic/
+cache/
+tests/fixtures/
+tests/_out/
+.env
+__pycache__/
+*.pyc
+.venv/
